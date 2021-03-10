@@ -1,0 +1,28 @@
+'@id': https://github.com/projects/olevski/test-renku-migration
+'@type':
+- http://schema.org/Project
+- http://www.w3.org/ns/prov#Location
+http://schema.org/agent: 0.14.0
+http://schema.org/creator:
+  '@id': mailto:tasko.olevski@sdsc.ethz.ch
+  '@type':
+  - http://schema.org/Person
+  - http://www.w3.org/ns/prov#Person
+  http://schema.org/affiliation: null
+  http://schema.org/alternateName: null
+  http://schema.org/email: tasko.olevski@sdsc.ethz.ch
+  http://schema.org/name: Tasko Olevski
+  http://www.w3.org/2000/01/rdf-schema#label: Tasko Olevski
+http://schema.org/dateCreated: '2021-03-10T10:23:14.855990+00:00'
+http://schema.org/name: test-renku-migration
+http://schema.org/schemaVersion: '8'
+https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate: false
+https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
+https://swissdatasciencecenter.github.io/renku-ontology#templateId: python-minimal
+https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata: '{"description":
+  "testing renku migration", "__template_source__": "renku", "__template_ref__": "master",
+  "__template_id__": "python-minimal", "__namespace__": "", "__sanitized_project_name__":
+  "", "__repository__": "", "__project_slug__": "", "name": "test-renku-migration"}'
+https://swissdatasciencecenter.github.io/renku-ontology#templateReference: master
+https://swissdatasciencecenter.github.io/renku-ontology#templateSource: renku
+https://swissdatasciencecenter.github.io/renku-ontology#templateVersion: 0.14.0
